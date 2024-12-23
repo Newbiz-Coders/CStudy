@@ -13,10 +13,8 @@
 5. **옆 사람에게 꼬리 질문**하고, 답변한다. (2바퀴)
 
 ## 😄 참여자
-|<img src="https://avatars.githubusercontent.com/emoee" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/WARDKEY" width="150" height="150"/>|
-|:-:|:-:|:-:|
-[**정민선**](https://github.com/emoee)|[**현세미**](https://github.com/SemiHyeon)|[**서근엽**](https://github.com/WARDKEY)|
+|<img src="https://avatars.githubusercontent.com/emoee" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/devstar1223" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/hye-on" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|[**정민선**](https://github.com/emoee)|[**현세미**](https://github.com/SemiHyeon)|[**김강산**](https://github.com/devstar1223)|[**조혜온**](https://github.com/hye-on)|
 
-|<img src="https://avatars.githubusercontent.com/devstar1223" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/hye-on" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/sungmingt" width="150" height="150"/>|
-|:-:|:-:|:-:|
-[**김강산**](https://github.com/devstar1223)|[**조혜온**](https://github.com/hye-on)|[**배성민**](https://github.com/sungmingt)|
+
